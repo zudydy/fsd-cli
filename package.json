@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "fsd": "./dist/index.js"
+    "fsd": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
